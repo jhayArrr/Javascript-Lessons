@@ -2,5 +2,5 @@
 Demonstration for Javascript
 
 ##To do List
-- [] create something
-- []
+- [x] create a repository
+- [x] 
