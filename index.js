@@ -23,4 +23,4 @@ console.log(Age);
 console.log(Nationality);
 console.log(Gender);
 console.log(ageAfraid);
-console.log("Am I Canadian Citizen" + male)
+console.log("Am I Canadian Citizen" + Not Canadian Citizen)
