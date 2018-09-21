@@ -37,4 +37,4 @@ console.log(Age);
 console.log(Nationality);
 console.log(Gender);
 console.log(ageAfraid);
-console.log("AmICanadian" + Not Canadian Citizen)
+console.log("AmICanadian" + NotCanadianCitizen)
