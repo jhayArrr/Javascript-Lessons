@@ -2,7 +2,7 @@ console.log('Hello World');
 
 // Create ten variables about yourself
 let SandyJulian = {
-  first name: "Sandy"
+  firstname: "Sandy"
   Last name: "Julian"
   Height: "5'8"
   Skin Color: "Brown"
