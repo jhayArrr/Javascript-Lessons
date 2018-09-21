@@ -1,5 +1,6 @@
 console.log('Hello World');
 
+
 // Create ten variables about yourself
 let first name = "Sandy";
 let Last name = "Julian";
