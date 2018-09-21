@@ -29,10 +29,10 @@ console.log(SandyJulian)
 
 
 //Print variables to console
-console.log(first name);
-console.log(Last name);
+console.log(firstname);
+console.log(Lastname);
 console.log(Height);
-console.log(Skin Color);
+console.log(SkinColor);
 console.log(Age);
 console.log(Nationality);
 console.log(Gender);
