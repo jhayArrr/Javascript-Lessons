@@ -2,21 +2,21 @@ console.log('Hello World');
 
 // Create ten variables about yourself
 let SandyJulian = {
-  Firstname: "Sandy",
-  Lastname: "Julian",
-  Height: "5'8",
-  SkinColor: "Brown",
-  Age: "18",
-  Nationality: "Filipino",
-  Gender: "Male",
+  firstname: "Sandy",
+  lastname: "Julian",
+  height: "5'8",
+  skinColor: "Brown",
+  age: "18",
   ageAfraid: 29,
-  CanadianCitizen: false,
-  achievements: null,
+  hair: true;
+  male: true;
 }
 
 let MeganSpence = {
-  Firstname: "Megan",
-  Lastname: "Spence",
+  firstname: "Megan",
+  lastname: "Spence",
+  height: "5'5"
+  skinColor: "White"
   age: 14,
   ageAfraid: null,
   hair: true,
@@ -29,17 +29,17 @@ console.log(SandyJulian)
 console.log(MeganSpence)
 
 //print out first name only
-console.log(SandyJulian.Firstname)
-console.log(MeganSpence.Firstname)
+console.log(SandyJulian.firstname)
+console.log(MeganSpence.firstname)
 
 //Print variables to console
-console.log(Firstname);
-console.log(Lastname);
-console.log(Height);
-console.log(SkinColor);
-console.log(Age);
-console.log(Nationality);
-console.log(Gender);
+console.log(firstname);
+console.log(lastname);
+console.log(height);
+console.log(skinColor);
+console.log(age);
+console.log(nationality);
+console.log(gender);
 console.log(ageAfraid);
 console.log("AmICanadian" + NotCanadianCitizen)
 console.log(achievements);
