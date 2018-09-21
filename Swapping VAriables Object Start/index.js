@@ -8,15 +8,15 @@ let SandyJulian = {
   skinColor: "Brown",
   age: "18",
   ageAfraid: 29,
-  hair: true;
-  male: true;
+  hair: true,
+  male: true,
 }
 
 let MeganSpence = {
   firstname: "Megan",
   lastname: "Spence",
-  height: "5'5"
-  skinColor: "White"
+  height: "5'5",
+  skinColor: "White",
   age: 14,
   ageAfraid: null,
   hair: true,
