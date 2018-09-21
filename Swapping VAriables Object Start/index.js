@@ -3,20 +3,20 @@ console.log('Hello World');
 // Create ten variables about yourself
 let SandyJulian = {
   firstname: "Sandy"
-  Last name: "Julian"
+  Lastname: "Julian"
   Height: "5'8"
   Skin Color: "Brown"
   Age: "18"
   Nationality: "Filipino"
   Gender: "Male"
   ageAfraid: 29
-  Canadian Citizen: false
+  CanadianCitizen: false
   achievements: null
 }
 
 let MeganSpence = {
-  first naem: "Megan",
-  Last name: "Spence",
+  firstname: "Megan",
+  Lastname: "Spence",
   age: 14,
   ageAfraid: null,
   hair: true,
@@ -37,4 +37,4 @@ console.log(Age);
 console.log(Nationality);
 console.log(Gender);
 console.log(ageAfraid);
-console.log("Am I Canadian Citizen" + Not Canadian Citizen)
+console.log("AmICanadian" + Not Canadian Citizen)
