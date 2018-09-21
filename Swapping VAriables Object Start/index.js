@@ -2,16 +2,16 @@ console.log('Hello World');
 
 // Create ten variables about yourself
 let SandyJulian = {
-  firstname: "Sandy"
-  Lastname: "Julian"
-  Height: "5'8"
-  Skin Color: "Brown"
-  Age: "18"
-  Nationality: "Filipino"
-  Gender: "Male"
-  ageAfraid: 29
-  CanadianCitizen: false
-  achievements: null
+  firstname: "Sandy",
+  Lastname: "Julian",
+  Height: "5'8",
+  Skin Color: "Brown",
+  Age: "18",
+  Nationality: "Filipino",
+  Gender: "Male",
+  ageAfraid: 29,
+  CanadianCitizen: false,
+  achievements: null,
 }
 
 let MeganSpence = {
