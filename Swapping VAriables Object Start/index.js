@@ -29,8 +29,8 @@ console.log(SandyJulian)
 console.log(MeganSpence)
 
 //print out first name only
-console.log(SandyJulian.firstname)
-console.log(MeganSpence.firstname)
+console.log(SandyJulian.Firstname)
+console.log(MeganSpence.Firstname)
 
 //Print variables to console
 console.log(Firstname);
