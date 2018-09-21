@@ -1,15 +1,12 @@
-console.log('Hello World');
+let firstname = "Sandy"
+let lastname = "Julian"
 
-// Create ten variables about yourself
-var name = Sandy
-Tall
-Brown Skinned
-Eighteen years old
-Badminton Player
-Filipino
-Male
-
-
+//new code goes here
+//add a third variable
+let memory = firstname;
+firstname = lastname;
+lastname = memory;
 
 //Print variables to console
-console.log(name)
+console.log("My first name is: " + firstname);
+console.log("My last name is: " + lastname);
