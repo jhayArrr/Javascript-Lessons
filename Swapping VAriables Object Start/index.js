@@ -5,7 +5,7 @@ let SandyJulian = {
   firstname: "Sandy",
   Lastname: "Julian",
   Height: "5'8",
-  Skin Color: "Brown",
+  SkinColor: "Brown",
   Age: "18",
   Nationality: "Filipino",
   Gender: "Male",
