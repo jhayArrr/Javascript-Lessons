@@ -42,4 +42,4 @@ console.log(nationality),
 console.log(gender),
 console.log(ageAfraid),
 console.log("AmICanadian" + NotCanadianCitizen),
-console.log(achievements),
+console.log(achievements);
