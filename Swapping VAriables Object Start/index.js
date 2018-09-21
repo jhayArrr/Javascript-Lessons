@@ -33,7 +33,7 @@ console.log(SandyJulian.firstname)
 console.log(MeganSpence.firstname)
 
 //Print variables to console
-console.log(firstname);
+console.log(first name);
 console.log(lastname);
 console.log(height);
 console.log(skinColor);
