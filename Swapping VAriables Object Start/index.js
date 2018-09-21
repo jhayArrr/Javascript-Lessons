@@ -26,7 +26,11 @@ let MeganSpence = {
 
 //printing out entire object
 console.log(SandyJulian)
+console.log(MeganSpence)
 
+//print out first name only
+console.log(SandyJulian.firstname)
+console.log(MeganSpence.firstname)
 
 //Print variables to console
 console.log(firstname);
