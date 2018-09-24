@@ -13,7 +13,7 @@ let SandyJulian = {
 }
 
 let MeganSpence = {
-  firstname: "Megan",
+  firstName: "Megan",
   lastname: "Spence",
   height: "5'5",
   skinColor: "White",
@@ -33,7 +33,7 @@ console.log(SandyJulian.firstname)
 console.log(MeganSpence.firstname)
 
 //Print variables to console
-console.log( firstname),
+console.log( firstName),
 console.log( lastname),
 console.log( height),
 console.log( skinColor),
